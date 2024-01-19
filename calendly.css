@@ -1,0 +1,71 @@
+.other{
+    margin-right: 400px;
+    word-spacing: 30px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.log{
+    margin-left: 40px;
+}
+#way{
+    color: blue;
+}
+
+.btn{
+    width: 150px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: black;
+    color: #ffffff;
+    margin-left: 100px;
+}
+.second{
+    margin-left: 450px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+#org{
+    margin-left: 100px;
+}
+.more{
+    margin-left: 30px;
+}
+.design{
+    background-image: url("bk1.jpg");
+    height: 250px;
+    width: 100%; 
+}
+.trusted{
+    color: white;
+    margin-left: 400px;
+    padding-top: 40px;
+    font-size: 30px;
+}
+.logo{
+  word-spacing: 100px;
+  margin-left: 300px;
+  padding-top: 30px;
+}
+.cards{
+    margin-left: 50px;
+    margin-top: 40px;
+}
+#but{
+    width: 150px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: black;
+    color: #ffffff;
+    margin-left: 550px;
+    margin-top: 50px;
+}
+select{
+    width: 400px;
+    height: 30px;
+}
+.last-card{
+    margin-top: 40px;
+    margin-left: 20px;
+}
