@@ -1,0 +1,61 @@
+#email{
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+    position: relative;
+    display: flex;
+    padding-top: 5px;
+}
+.other{
+    margin-right: 400px;
+    word-spacing: 30px;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.easy{
+ 
+}
+
+#sign{
+    display: flex;
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    margin-left: 240px;
+    position: absolute;
+    padding-left: 15px;
+    padding-top: 5px;
+}
+.btn{
+    display: flex;
+}
+.simple{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.hot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.but{
+    background-color: blue;
+    color: white;
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    margin-right: none;
+    border: none;
+}
+
