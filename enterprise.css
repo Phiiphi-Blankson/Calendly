@@ -1,0 +1,20 @@
+.other{
+    margin-right: 400px;
+    word-spacing: 30px;
+}
+.log{
+    margin-left: 40px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+
+select{
+    width: 400px;
+    height: 30px;
+}
+.last-card{
+    margin-top: 40px;
+    margin-left: 20px;
+}

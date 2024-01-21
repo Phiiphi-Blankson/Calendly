@@ -1,0 +1,44 @@
+.other{
+    margin-right: 400px;
+    word-spacing: 30px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.log{
+    margin-left: 40px;
+}
+#sign{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+.btn{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid black
+}
+.stream{
+    margin-left: 350px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-weight: bolder;
+}
+.solution{
+    margin-left: 350px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-weight: bolder;
+}
+.size{
+    margin-bottom: 60px;
+}
+select{
+    width: 400px;
+    height: 30px;
+}
