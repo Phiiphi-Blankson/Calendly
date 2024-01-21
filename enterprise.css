@@ -9,7 +9,38 @@ a{
     color: black;
     text-decoration: none;
 }
-
+#signn{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+.first{
+    margin-top: 40px;
+    margin-bottom: 60px;
+   
+}
+.second{
+    margin-top: 40px;
+    margin-bottom: 60px;
+   
+}
+#sign{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    background-color:white;
+    color: black;
+    border: none;
+}
+.plans{
+    background-image: url("bk7.jpg");
+    height: 300px;
+    padding-left: 20px;
+    padding-top: 35px;
+}
 select{
     width: 400px;
     height: 30px;
